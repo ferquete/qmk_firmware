@@ -1,0 +1,9 @@
+# compile each one type
+qmk compile -kb keychron/k6_pro/ansi/white -km via
+qmk compile -kb keychron/k6_pro/ansi/white -km default
+
+# flash via 
+qmk flash -kb keychron/k6_pro/ansi/white -km via
+
+
+
